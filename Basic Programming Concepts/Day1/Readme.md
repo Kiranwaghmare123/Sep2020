@@ -1,8 +1,8 @@
-Java:
-•	General purpose Programming language.
-•	Supports OOP
-•	Developed by Sun Microsystems of USA in 1991
-•	Called  as OAK by James Gosling
+Java:<br>
+•	General purpose Programming language.<br>
+•	Supports OOP<br>
+•	Developed by Sun Microsystems of USA in 1991<br>
+•	Called  as OAK by James Gosling <br>
 •	Discovered to overcome the limitations of C and C++ in terms of both reliability & portability
 •	Thus, Java a really simple, reliable, portable & powerful language.
 

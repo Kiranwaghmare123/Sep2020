@@ -77,7 +77,7 @@ ii.	Interpreter generates machine code that directly executed by the machine i.e
 
 How java is Considered as Platform Independent and Portable ?<br>
 <br>
-A. J<br>ava is considered as Portable because –<br>
+A. Java is considered as Portable because –<br>
 Java is Considered as Platform independent because of many different reasons which are listed below -<br>
 1.	Output of a Java compiler is Non Executable Code i.e Bytecode.<br>
 2.	Bytecode is a highly optimized set of instructions<br>

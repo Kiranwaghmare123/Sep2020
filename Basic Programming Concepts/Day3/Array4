@@ -1,0 +1,13 @@
+package Day3;
+import java.util.Scanner;
+class Array4
+{
+    public static void main(String []args)
+    {       
+    char a1[] = {'R','A','H','U','L'};
+    for(char i:a1)
+    {
+        System.out.println(i);
+    }
+    
+}

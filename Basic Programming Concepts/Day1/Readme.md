@@ -1,4 +1,4 @@
-Java:<br>
+**Java:**<br>
 •	General purpose Programming language.<br>
 •	Supports OOP<br>
 •	Developed by Sun Microsystems of USA in 1991<br>
@@ -19,7 +19,7 @@ Java SE 7	July 28	 2011<br>
 (Add remaining versions)<br>
 
 
-Java Features:<br>
+**Java Features:**<br>
 
 1.	Compiled and Interpreted<br>
 •	Computer language is either compiled or interpreted.<br>
@@ -75,7 +75,7 @@ ii.	Interpreter generates machine code that directly executed by the machine i.e
 10.	Ease of Development<br>
 
 
-How java is Considered as Platform Independent and Portable ?<br>
+*How java is Considered as Platform Independent and Portable ?*<br>
 <br>
 A. Java is considered as Portable because –<br>
 Java is Considered as Platform independent because of many different reasons which are listed below -<br>
@@ -89,3 +89,12 @@ Java is Considered as Platform independent because of many different reasons whi
 8.	However Internal details of  JVM will differ from platform to platform but still all understand the Same Java Bytecode.<br>
  
 
+**Language Basics**<br>
+*Variables*<br>
+You've already learned that objects store their state in fields. However, the Java programming language also uses the term "variable" as well. This section discusses this relationship, plus variable naming rules and conventions, basic data types (primitive types, character strings, and arrays), default values, and literals.<br><br>
+*Operators*<br>
+This section describes the operators of the Java programming language. It presents the most commonly-used operators first, and the less commonly-used operators last. Each discussion includes code samples that you can compile and run.<br><br>
+*Expressions, Statements, and Blocks*<br>
+Operators may be used in building expressions, which compute values; expressions are the core components of statements; statements may be grouped into blocks. This section discusses expressions, statements, and blocks using example code that you've already seen.<br><br>
+*Control Flow Statements*<br>
+This section describes the control flow statements supported by the Java programming language. It covers the decisions-making, looping, and branching statements that enable your programs to conditionally execute particular blocks of code.<br>
